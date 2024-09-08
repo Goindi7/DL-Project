@@ -23,7 +23,7 @@ list_of_files = [
         "requirements.txt",
         "setup.py",
         "research/trials.ipynb",    # in research we perform some notebook experiments a=wich are kept inside the research file
-        # "templates/index.html"
+        "templates/index.html"
         
 ]
 
